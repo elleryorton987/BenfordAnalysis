@@ -282,6 +282,10 @@ def _write_report(result: BenfordResult):
         "",
         "## First-digit distribution",
         "",
+        "![Observed vs Expected](first_digit_observed_vs_expected.svg)",
+        "",
+        "![Observed - Expected Deviation](first_digit_deviation.svg)",
+        "",
         "| Digit | Observed Count | Observed % | Expected % | Deviation (Obs - Exp) |",
         "| --- | --- | --- | --- | --- |",
     ]
