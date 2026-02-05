@@ -4,6 +4,10 @@ Total non-zero amounts analyzed: **37,905**
 
 ## First-digit distribution
 
+![Observed vs Expected](first_digit_observed_vs_expected.svg)
+
+![Observed - Expected Deviation](first_digit_deviation.svg)
+
 | Digit | Observed Count | Observed % | Expected % | Deviation (Obs - Exp) |
 | --- | --- | --- | --- | --- |
 | 1 | 11,449 | 30.20% | 30.10% | +0.10% |
